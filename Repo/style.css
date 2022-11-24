@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(22, 22, 47);
+    color:white;
+}
+header {
+    display:flex;
+    color:black;
+    background-color:white;
+    box-shadow: 6px 6px black;
+    text-align: left;
+    align-items: space-between;
+
+}
+img {
+    display:flex;
+    max-width:90px;
+    max-height:90px;
+    width: 100%;
+    margin:15px;
+}
+.logo {}
+
+.title {
+    float:left;
+}
+
+li {
+    display:inline;
+    text-decoration:none;
+    margin-right:3px;
+    margin-left:3px;
+    text-align:center;
+}
+
+.intro {
+    text-align:center;
+}
